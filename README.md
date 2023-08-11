@@ -1,3 +1,5 @@
+![nftte](https://github.com/awais922609/Simplest-NFT-DAPP/assets/69464258/72dacd15-9ae5-492c-98db-36b2bc5951e4)
+
 # Ethereum-based NFT Contract Using Hardhat
 
 Welcome to the Ethereum-based NFT Contract built using Hardhat! This repository guides you through creating your very own basic NFT (Non-Fungible Token) contract on the Ethereum blockchain. Whether you're a developer looking to delve into the world of NFTs or simply exploring Ethereum's capabilities, this is the perfect place to start.
